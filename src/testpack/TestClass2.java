@@ -1,5 +1,5 @@
 package testpack;
 
 public class TestClass2 {
-	//ripple
+	//ripple 2
 }
