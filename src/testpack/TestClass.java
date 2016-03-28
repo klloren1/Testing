@@ -1,5 +1,5 @@
 package testpack;
 
 public class TestClass {
-	//testing updated
+	//testing update
 }
