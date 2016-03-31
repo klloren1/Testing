@@ -2,7 +2,7 @@ This is a project to develop a dice game that will be programmed in java.
 
 The game:
 
-2 Players. 
+2 Players.
 Each player has 5 rolls per round consisting of 2 dice each. 
 If you roll doubles, ten points are added to your score. 
 You can choose to lock in any dice you roll.
